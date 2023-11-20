@@ -5,3 +5,4 @@ protobuf==4.25.1
 streamlit==1.28.1
 torch==2.1.0
 transformers==4.35.2
+google-generativeai==0.2.2
